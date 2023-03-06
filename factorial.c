@@ -9,7 +9,7 @@ int main(){
     printf("Enter Value of n: ");
     scanf("%d",&n);
 
-    printf("Factorial is:%d",fact(n));
+    printf("Factorial is: %d",fact(n));
 }
 
 int fact(int n){
