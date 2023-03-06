@@ -6,7 +6,7 @@ int main(){
     
     int n;
 
-    printf("Enter Value Of n:");
+    printf("Enter Value of n: ");
     scanf("%d",&n);
 
     printf("Factorial is:%d",fact(n));
